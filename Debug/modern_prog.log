@@ -1,0 +1,4 @@
+﻿  modern_prog.cpp
+c:\users\иван\documents\visual studio 2015\projects\modern_prog\modern_prog.cpp(124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  modern_prog.vcxproj -> C:\Users\Иван\Documents\Visual Studio 2015\Projects\modern_prog\Debug\modern_prog.exe
+  modern_prog.vcxproj -> C:\Users\Иван\Documents\Visual Studio 2015\Projects\modern_prog\Debug\modern_prog.pdb (Full PDB)
